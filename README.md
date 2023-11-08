@@ -26,7 +26,7 @@ This project delves into the Airbnb data of Chicago and New Orleans, unraveling 
 
 1. **Data Cleaning and Exploration**: Refer to the Jupyter Notebooks in the respective folders for detailed steps and analysis.
 
-2. **Tableau Visualizations**: Open Tableau Public and access the [project dashboard](#link) for interactive visualizations.
+2. **Tableau Visualizations**: Open Tableau Public and access the [project dashboard](https://public.tableau.com/app/profile/gondalaprasad/viz/EDA_ON_AIRBNB_LISTINGS/AIRBNB) for interactive visualizations.
 
 3. **LinkedIn Updates**: Stay tuned for project insights and updates on my LinkedIn profile.
 
